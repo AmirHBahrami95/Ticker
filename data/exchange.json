@@ -1,0 +1,809 @@
+{
+  "0": {
+    "name": "Binance",
+    "date_live": null,
+    "url": "https://www.binance.com"
+  },
+  "pairs": [
+    {
+      "base": "XAI",
+      "quote": "USDT",
+      "volume": 44929309.9348,
+      "price": 0.2008,
+      "price_usd": 0.2008,
+      "time": 1737359050
+    },
+    {
+      "base": "EOS",
+      "quote": "USDT",
+      "volume": 44898600.64284,
+      "price": 0.8667,
+      "price_usd": 0.8667,
+      "time": 1737359050
+    },
+    {
+      "base": "BTC",
+      "quote": null,
+      "volume": 44623495.908111,
+      "price": 3863227,
+      "price_usd": 108608.08350326655,
+      "time": 1737359169
+    },
+    {
+      "base": "PEPE",
+      "quote": null,
+      "volume": 42969043.942838,
+      "price": 0.00061065,
+      "price_usd": 1.7167390420306578e-05,
+      "time": 1737359169
+    },
+    {
+      "base": "THETA",
+      "quote": "USDT",
+      "volume": 42720409.319,
+      "price": 2.135,
+      "price_usd": 2.135,
+      "time": 1737359050
+    },
+    {
+      "base": "MANTA",
+      "quote": "USDT",
+      "volume": 41805253.008,
+      "price": 0.69,
+      "price_usd": 0.69,
+      "time": 1737359050
+    },
+    {
+      "base": "SUI",
+      "quote": "USDC",
+      "volume": 40404144.23584,
+      "price": 4.7152,
+      "price_usd": 4.7152,
+      "time": 1737359169
+    },
+    {
+      "base": "SUSHI",
+      "quote": "USDT",
+      "volume": 40381301.4882,
+      "price": 1.493,
+      "price_usd": 1.493,
+      "time": 1737359050
+    },
+    {
+      "base": "SOL",
+      "quote": null,
+      "volume": 40279013.001685,
+      "price": 248.82,
+      "price_usd": 255.7140508098331,
+      "time": 1737359050
+    },
+    {
+      "base": "OM",
+      "quote": "USDT",
+      "volume": 39448719.453,
+      "price": 3.7696,
+      "price_usd": 3.7609,
+      "time": 1737359050
+    },
+    {
+      "base": "CAKE",
+      "quote": "USDT",
+      "volume": 38698018.09182,
+      "price": 2.271,
+      "price_usd": 2.271,
+      "time": 1737359050
+    },
+    {
+      "base": "KAIA",
+      "quote": "USDT",
+      "volume": 38450533.72944,
+      "price": 0.2226,
+      "price_usd": 0.2226,
+      "time": 1737359050
+    },
+    {
+      "base": "PYTH",
+      "quote": "USDT",
+      "volume": 37879104.03685,
+      "price": 0.3365,
+      "price_usd": 0.3365,
+      "time": 1737359050
+    },
+    {
+      "base": "PEOPLE",
+      "quote": "USDT",
+      "volume": 36756415.435596,
+      "price": 0.03459,
+      "price_usd": 0.03459,
+      "time": 1737359050
+    },
+    {
+      "base": "BNB",
+      "quote": "BTC",
+      "volume": 35271728.205883,
+      "price": 0.006466,
+      "price_usd": 697.63348694,
+      "time": 1737359050
+    },
+    {
+      "base": "MKR",
+      "quote": "USDT",
+      "volume": 32523799.4746,
+      "price": 1358,
+      "price_usd": 1358,
+      "time": 1737359050
+    },
+    {
+      "base": "USDT",
+      "quote": "DAI",
+      "volume": 31416448.534,
+      "price": 0.9985,
+      "price_usd": 0.9985,
+      "time": 1737359050
+    },
+    {
+      "base": "TRB",
+      "quote": "USDT",
+      "volume": 30999720.32,
+      "price": 54.4,
+      "price_usd": 54.4,
+      "time": 1737359050
+    },
+    {
+      "base": "DOGE",
+      "quote": null,
+      "volume": 30900610.838495,
+      "price": 13.431,
+      "price_usd": 0.3763809431704978,
+      "time": 1737359050
+    },
+    {
+      "base": "PHA",
+      "quote": "USDT",
+      "volume": 30889542.717,
+      "price": 0.2715,
+      "price_usd": 0.2715,
+      "time": 1737359050
+    },
+    {
+      "base": "CFX",
+      "quote": "USDT",
+      "volume": 30458499.6065,
+      "price": 0.1603,
+      "price_usd": 0.1603,
+      "time": 1737359050
+    },
+    {
+      "base": "XRP",
+      "quote": "ETH",
+      "volume": 29676445.8626,
+      "price": 0.0009486,
+      "price_usd": 3.200515709544315,
+      "time": 1737359050
+    },
+    {
+      "base": "AEVO",
+      "quote": "USDT",
+      "volume": 29624850.120549,
+      "price": 0.2987,
+      "price_usd": 0.2987,
+      "time": 1737359050
+    },
+    {
+      "base": "SPELL",
+      "quote": "USDT",
+      "volume": 28642444.138988,
+      "price": 0.0009525,
+      "price_usd": 0.0009525,
+      "time": 1737359050
+    },
+    {
+      "base": "ETH",
+      "quote": null,
+      "volume": 27221567.207768,
+      "price": 120255,
+      "price_usd": 3380.765634969242,
+      "time": 1737359169
+    },
+    {
+      "base": "ASTR",
+      "quote": "USDT",
+      "volume": 27123266.81514,
+      "price": 0.0573,
+      "price_usd": 0.0573,
+      "time": 1737359050
+    },
+    {
+      "base": "LUNC",
+      "quote": "USDT",
+      "volume": 26812283.46205,
+      "price": 9.033e-05,
+      "price_usd": 9.033e-05,
+      "time": 1737359050
+    },
+    {
+      "base": "CHZ",
+      "quote": "USDT",
+      "volume": 26786714.742,
+      "price": 0.081,
+      "price_usd": 0.081,
+      "time": 1737359050
+    },
+    {
+      "base": "MANA",
+      "quote": "USDT",
+      "volume": 26692885.1844,
+      "price": 0.5045,
+      "price_usd": 0.5022,
+      "time": 1737359050
+    },
+    {
+      "base": "AR",
+      "quote": "USDT",
+      "volume": 26487630.188,
+      "price": 16.36,
+      "price_usd": 16.36,
+      "time": 1737359050
+    },
+    {
+      "base": "NEO",
+      "quote": "USDT",
+      "volume": 26169890.1282,
+      "price": 15.34,
+      "price_usd": 15.34,
+      "time": 1737359050
+    },
+    {
+      "base": "BONK",
+      "quote": null,
+      "volume": 25631861.403544,
+      "price": 0.0011526,
+      "price_usd": 3.240339670587957e-05,
+      "time": 1737359169
+    },
+    {
+      "base": "LINK",
+      "quote": "USDC",
+      "volume": 25466078.385,
+      "price": 25.85,
+      "price_usd": 25.85,
+      "time": 1737359050
+    },
+    {
+      "base": "SSV",
+      "quote": "USDT",
+      "volume": 25359090.40102,
+      "price": 19.87,
+      "price_usd": 19.87,
+      "time": 1737359050
+    },
+    {
+      "base": "AI",
+      "quote": "USDT",
+      "volume": 25254146.8711,
+      "price": 0.5866,
+      "price_usd": 0.5866,
+      "time": 1737359050
+    },
+    {
+      "base": "HIVE",
+      "quote": "USDT",
+      "volume": 25178350.412,
+      "price": 0.4216,
+      "price_usd": 0.4216,
+      "time": 1737359050
+    },
+    {
+      "base": "W",
+      "quote": "USDT",
+      "volume": 25053323.06693,
+      "price": 0.2423,
+      "price_usd": 0.2423,
+      "time": 1737359050
+    },
+    {
+      "base": "ADA",
+      "quote": "BTC",
+      "volume": 24868753.889786,
+      "price": 9.87e-06,
+      "price_usd": 1.0648998633,
+      "time": 1737359050
+    },
+    {
+      "base": "TROY",
+      "quote": "USDT",
+      "volume": 24643103.442673,
+      "price": 0.002267,
+      "price_usd": 0.002267,
+      "time": 1737359050
+    },
+    {
+      "base": "ORCA",
+      "quote": "USDT",
+      "volume": 24597070.49514,
+      "price": 3.751,
+      "price_usd": 3.751,
+      "time": 1737359050
+    },
+    {
+      "base": "HMSTR",
+      "quote": "USDT",
+      "volume": 24465371.991057,
+      "price": 0.002979,
+      "price_usd": 0.002962,
+      "time": 1737359050
+    },
+    {
+      "base": "BTC",
+      "quote": null,
+      "volume": 24195431.330168,
+      "price": 16846083,
+      "price_usd": 107781.137933137,
+      "time": 1737359169
+    },
+    {
+      "base": "EGLD",
+      "quote": "USDT",
+      "volume": 24048945.984,
+      "price": 33.6,
+      "price_usd": 33.6,
+      "time": 1737359050
+    },
+    {
+      "base": "PIXEL",
+      "quote": "USDT",
+      "volume": 23963819.0547,
+      "price": 0.1281,
+      "price_usd": 0.1281,
+      "time": 1737359050
+    },
+    {
+      "base": "LPT",
+      "quote": "USDT",
+      "volume": 23815808.15196,
+      "price": 13.161,
+      "price_usd": 13.161,
+      "time": 1737359050
+    },
+    {
+      "base": "XRP",
+      "quote": null,
+      "volume": 23778952.900189,
+      "price": 3.1015,
+      "price_usd": 3.187433199046288,
+      "time": 1737359050
+    },
+    {
+      "base": "HBAR",
+      "quote": "USDC",
+      "volume": 23452322.4705,
+      "price": 0.36393,
+      "price_usd": 0.36393,
+      "time": 1737359050
+    },
+    {
+      "base": "LINK",
+      "quote": "BTC",
+      "volume": 22704844.206557,
+      "price": 0.0002396,
+      "price_usd": 25.851064564,
+      "time": 1737359050
+    },
+    {
+      "base": "ALT",
+      "quote": "USDT",
+      "volume": 22689625.41,
+      "price": 0.09,
+      "price_usd": 0.09,
+      "time": 1737359050
+    },
+    {
+      "base": "ONE",
+      "quote": "USDT",
+      "volume": 22569075.378348,
+      "price": 0.02372,
+      "price_usd": 0.02372,
+      "time": 1737359050
+    },
+    {
+      "base": "KDA",
+      "quote": "USDT",
+      "volume": 22469213.34306,
+      "price": 0.9119,
+      "price_usd": 0.9045,
+      "time": 1737359050
+    },
+    {
+      "base": "DOT",
+      "quote": "USDC",
+      "volume": 22435254.21192,
+      "price": 6.744,
+      "price_usd": 6.744,
+      "time": 1737359050
+    },
+    {
+      "base": "CETUS",
+      "quote": "USDT",
+      "volume": 22275838.34848,
+      "price": 0.2608,
+      "price_usd": 0.2608,
+      "time": 1737359169
+    },
+    {
+      "base": "ROSE",
+      "quote": "USDT",
+      "volume": 21858687.841368,
+      "price": 0.07388,
+      "price_usd": 0.07388,
+      "time": 1737359050
+    },
+    {
+      "base": "VANRY",
+      "quote": "USDT",
+      "volume": 21587665.5408,
+      "price": 0.0942,
+      "price_usd": 0.0942,
+      "time": 1737359050
+    },
+    {
+      "base": "SUI",
+      "quote": "BTC",
+      "volume": 21489559.114316,
+      "price": 4.372e-05,
+      "price_usd": 4.7160006551,
+      "time": 1737359169
+    },
+    {
+      "base": "WBETH",
+      "quote": "ETH",
+      "volume": 21333406.232371,
+      "price": 1.0587,
+      "price_usd": 3560.092701888975,
+      "time": 1737359169
+    },
+    {
+      "base": "AAVE",
+      "quote": "ETH",
+      "volume": 21210757.636913,
+      "price": 0.10507,
+      "price_usd": 353.3191085174975,
+      "time": 1737359050
+    },
+    {
+      "base": "BLUR",
+      "quote": "USDT",
+      "volume": 20904832.77975,
+      "price": 0.2105,
+      "price_usd": 0.2105,
+      "time": 1737359169
+    },
+    {
+      "base": "FTT",
+      "quote": "USDT",
+      "volume": 20785832.673676,
+      "price": 2.1301,
+      "price_usd": 2.1301,
+      "time": 1737359050
+    },
+    {
+      "base": "AVAX",
+      "quote": "USDC",
+      "volume": 19990145.1172,
+      "price": 38.51,
+      "price_usd": 38.51,
+      "time": 1737359050
+    },
+    {
+      "base": "PNUT",
+      "quote": null,
+      "volume": 19845961.124639,
+      "price": 14.94,
+      "price_usd": 0.42001279436564365,
+      "time": 1737359050
+    },
+    {
+      "base": "AXS",
+      "quote": "USDT",
+      "volume": 18727827.92124,
+      "price": 6.164,
+      "price_usd": 6.164,
+      "time": 1737359050
+    },
+    {
+      "base": "ACX",
+      "quote": "USDT",
+      "volume": 18357384.80381,
+      "price": 0.4171,
+      "price_usd": 0.4171,
+      "time": 1737359050
+    },
+    {
+      "base": "SOL",
+      "quote": "BNB",
+      "volume": 18281334.737366,
+      "price": 0.3676,
+      "price_usd": 256.590954899572,
+      "time": 1737359050
+    },
+    {
+      "base": "IMX",
+      "quote": "USDT",
+      "volume": 18232950.44032,
+      "price": 1.232,
+      "price_usd": 1.232,
+      "time": 1737359050
+    },
+    {
+      "base": "USUAL",
+      "quote": null,
+      "volume": 17944705.751772,
+      "price": 14.66,
+      "price_usd": 0.4121410686345606,
+      "time": 1737359050
+    },
+    {
+      "base": "YGG",
+      "quote": "USDT",
+      "volume": 17754217.12492,
+      "price": 0.4001,
+      "price_usd": 0.4001,
+      "time": 1737359050
+    },
+    {
+      "base": "XVG",
+      "quote": "USDT",
+      "volume": 17725277.576468,
+      "price": 0.011501,
+      "price_usd": 0.011501,
+      "time": 1737359050
+    },
+    {
+      "base": "CKB",
+      "quote": "USDT",
+      "volume": 17662434.079464,
+      "price": 0.009918,
+      "price_usd": 0.009918,
+      "time": 1737359050
+    },
+    {
+      "base": "DF",
+      "quote": "USDT",
+      "volume": 17329272.32562,
+      "price": 0.08482,
+      "price_usd": 0.08482,
+      "time": 1737359050
+    },
+    {
+      "base": "KSM",
+      "quote": "USDT",
+      "volume": 17229891.15081,
+      "price": 28.53,
+      "price_usd": 28.53,
+      "time": 1737359050
+    },
+    {
+      "base": "STG",
+      "quote": "USDT",
+      "volume": 17223090.17,
+      "price": 0.3608,
+      "price_usd": 0.3608,
+      "time": 1737359050
+    },
+    {
+      "base": "1INCH",
+      "quote": "USDT",
+      "volume": 16975964.16432,
+      "price": 0.3568,
+      "price_usd": 0.3568,
+      "time": 1737359050
+    },
+    {
+      "base": "LTC",
+      "quote": "USDC",
+      "volume": 16469786.80593,
+      "price": 121.57,
+      "price_usd": 121.57,
+      "time": 1737359050
+    },
+    {
+      "base": "SNX",
+      "quote": "USDT",
+      "volume": 16431304.9176,
+      "price": 1.699,
+      "price_usd": 1.699,
+      "time": 1737359050
+    },
+    {
+      "base": "ETH",
+      "quote": null,
+      "volume": 16323316.074826,
+      "price": 20527.88,
+      "price_usd": 3375.9157068652626,
+      "time": 1737359169
+    },
+    {
+      "base": "BLZ",
+      "quote": "USDT",
+      "volume": 16208341.8954,
+      "price": 0.0582,
+      "price_usd": 0.0582,
+      "time": 1737359050
+    },
+    {
+      "base": "DAR",
+      "quote": "USDT",
+      "volume": 16084148.31079,
+      "price": 0.21707,
+      "price_usd": 0.21707,
+      "time": 1737359169
+    },
+    {
+      "base": "XTZ",
+      "quote": "USDT",
+      "volume": 16026475.4868,
+      "price": 1.308,
+      "price_usd": 1.308,
+      "time": 1737359050
+    },
+    {
+      "base": "AAVE",
+      "quote": "USDC",
+      "volume": 15892517.46281,
+      "price": 353.11,
+      "price_usd": 353.11,
+      "time": 1737359050
+    },
+    {
+      "base": "WIF",
+      "quote": "USDC",
+      "volume": 15022378.8684,
+      "price": 1.53,
+      "price_usd": 1.53,
+      "time": 1737359050
+    },
+    {
+      "base": "FTM",
+      "quote": "USDT",
+      "volume": 14877981.6042,
+      "price": 0.6994,
+      "price_usd": 0.6994,
+      "time": 1737359050
+    },
+    {
+      "base": "SUPER",
+      "quote": "USDT",
+      "volume": 14826416.0366,
+      "price": 1.1546,
+      "price_usd": 1.1546,
+      "time": 1737359050
+    },
+    {
+      "base": "LTC",
+      "quote": "BTC",
+      "volume": 14801042.348087,
+      "price": 0.001128,
+      "price_usd": 121.70284152,
+      "time": 1737359050
+    },
+    {
+      "base": "FLOW",
+      "quote": "USDT",
+      "volume": 14799457.2766,
+      "price": 0.74,
+      "price_usd": 0.74,
+      "time": 1737359050
+    },
+    {
+      "base": "ZRX",
+      "quote": "USDT",
+      "volume": 14777682.8074,
+      "price": 0.4867,
+      "price_usd": 0.4867,
+      "time": 1737359050
+    },
+    {
+      "base": "MINA",
+      "quote": "USDT",
+      "volume": 14732610.79992,
+      "price": 0.5414,
+      "price_usd": 0.5414,
+      "time": 1737359050
+    },
+    {
+      "base": "BONK",
+      "quote": "USDC",
+      "volume": 14681303.237107,
+      "price": 3.219e-05,
+      "price_usd": 3.219e-05,
+      "time": 1737359169
+    },
+    {
+      "base": "ACH",
+      "quote": "USDT",
+      "volume": 14540721.08909,
+      "price": 0.02177,
+      "price_usd": 0.02177,
+      "time": 1737359050
+    },
+    {
+      "base": "HOT",
+      "quote": "USDT",
+      "volume": 14533360.250871,
+      "price": 0.002343,
+      "price_usd": 0.002343,
+      "time": 1737359050
+    },
+    {
+      "base": "LUMIA",
+      "quote": "USDT",
+      "volume": 14281069.0542,
+      "price": 1.041,
+      "price_usd": 1.041,
+      "time": 1737359050
+    },
+    {
+      "base": "HBAR",
+      "quote": "BTC",
+      "volume": 14181564.833712,
+      "price": 3.38e-06,
+      "price_usd": 0.36459474415,
+      "time": 1737359050
+    },
+    {
+      "base": "ZIL",
+      "quote": "USDT",
+      "volume": 14154229.33485,
+      "price": 0.02134,
+      "price_usd": 0.02134,
+      "time": 1737359050
+    },
+    {
+      "base": "ENA",
+      "quote": null,
+      "volume": 14024568.265104,
+      "price": 32.449,
+      "price_usd": 0.9122486723139739,
+      "time": 1737359050
+    },
+    {
+      "base": "MAGIC",
+      "quote": "USDT",
+      "volume": 13755328.3746,
+      "price": 0.4005,
+      "price_usd": 0.4005,
+      "time": 1737359050
+    },
+    {
+      "base": "REZ",
+      "quote": "USDT",
+      "volume": 13661455.25829,
+      "price": 0.0317,
+      "price_usd": 0.0317,
+      "time": 1737359050
+    },
+    {
+      "base": "ENA",
+      "quote": "USDC",
+      "volume": 13359377.62481,
+      "price": 0.9065,
+      "price_usd": 0.9065,
+      "time": 1737359050
+    },
+    {
+      "base": "AGLD",
+      "quote": "USDT",
+      "volume": 13061610.2448,
+      "price": 1.656,
+      "price_usd": 1.656,
+      "time": 1737359050
+    },
+    {
+      "base": "MASK",
+      "quote": "USDT",
+      "volume": 13036761.024,
+      "price": 2.704,
+      "price_usd": 2.688,
+      "time": 1737359050
+    }
+  ]
+}

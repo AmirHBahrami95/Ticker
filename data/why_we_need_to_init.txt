@@ -1,0 +1,15 @@
+bc when using the coinlore api, there are too many coins so giving us a full list of 10million+ (idk the real number it's a guess)
+coin records is gonna eph their systems so up that serving free api ain't gonna be worth it
+
+so they decided the're gonna give you a list in some range manner. therefore whenever you need wanna get a hold of coin's list
+you need to call their api
+
+but there's a caveat: each time you call their api to get top 100 (or N) coins, the list MIGHT be different. in end effect, you
+have to pull the list each time, if you don't have the id's saved in your local storage
+
+so for that reason I figured: why not just save coins whenever you pull them?
+
+also - there's something I couldn't do anything about: there's no search api by symbol! therefore there's really no better strategy
+to pull id's by ranges (from 200 to say 300) and save them in a sqlite3 database
+
+and thus, all the "init" fuss!
