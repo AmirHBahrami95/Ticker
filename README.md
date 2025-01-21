@@ -14,13 +14,13 @@ And finally - set a __TICK__ with __listen__ command and passing options like `-
 simply run the __main.py__ program form commandline for it
 
 ```bash
-	python3 . -h
+python3 . -h
 ```
 
 here's a quick shot at the help:
 
 ```bash
-sage: ticker [-h] [-v] [-n] [-t [TICK]] {init,coins,listen} [parameters ...]
+usage: ticker [-h] [-v] [-n] [-t [TICK]] {init,coins,listen} [parameters ...]
 
 get custom crypto coins prices from CoinLore (free 100%)
 
