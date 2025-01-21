@@ -43,7 +43,6 @@ By https://github.com/AmirHBahrami95
 - [ ] if program is interrupted, continue where you left off
 
 ### Contribution
-This program uses [Coinlore] , so go check it out it's completely free to use their api's (and their website's
+This program uses [Coinlore](https://www.coinlore.com) , so go check it out it's completely free to use their api's (and their website's
 insights ftm)
 
-[Coinlore]: http://www.reddit.com and 
